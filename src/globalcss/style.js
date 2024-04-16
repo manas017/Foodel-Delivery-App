@@ -1,0 +1,29 @@
+module.exports={
+    colors:{
+        col1:'white',
+        text1:'red',
+        text2:'grey'
+    },
+    titles:{
+        title1:30,
+        btntext:20
+    },
+    btn1:{
+        width:'80%',
+        heigth:50,
+        justifyContent:'center',
+        alignItems:'center',
+        color:'white',
+        bckgroundColor:'red',
+        borderRadius:10,
+        elevation:10
+    },
+    hrln:{
+        width:'80%',
+        marginVertical:10,
+        borderBottomColor:'#E0E0E0',
+        borderBottomWidth:1
+    },
+   
+
+    }

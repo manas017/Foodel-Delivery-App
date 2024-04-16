@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890352583150",
+    "project_id": "fooddel-64e37",
+    "storage_bucket": "fooddel-64e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890352583150:android:ca1e4a3235312552368eff",
+        "android_client_info": {
+          "package_name": "com.foodel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkO9QqnYea7nAfT9xdq9zh35FcMMxldKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
